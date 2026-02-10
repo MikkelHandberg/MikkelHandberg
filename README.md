@@ -1,7 +1,3 @@
-### Hi, I'm Mikkel!
-
-I'm an IT-Technology student
-
 -  I’m currently working on **Microservices with .NET Aspire & Kubernetes**
 -  I’m currently learning **Advanced DevOps & Infrastructure as Code**
 
